@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/Pylons/translationstring/commit/a8d0268000e51833650e82a87f065d0e629f3998",
       "git:hexsha": "a8d0268000e51833650e82a87f065d0e629f3998",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/Pylons/translationstring/commit/403fa7fbf5e98748acae41b5da439d088fa5c9a6",
